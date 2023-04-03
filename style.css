@@ -38,7 +38,6 @@ body {
   .headshot {
     border-radius: 400px;
     padding: 5px;
-    background-position: top-left;
   }
   .my-pic{
     border-radius: 300px;
@@ -46,21 +45,11 @@ body {
     margin-top: 30px;
     margin-bottom: 30px;
     margin-right: 20px;
+    display: block;
+    width: 350px;
+    height: 350px;
   }
-  .me-and-my-daughter {
-    border-radius: 300px;
-    padding:5px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-right: 20px;
-  }
-  .web-dev {
-    border-radius: 170px;
-    padding:5px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    margin-right: 20px;
-  }
+  
   /* Header styles */
   
   header {
